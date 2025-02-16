@@ -1,0 +1,14 @@
+D:\Gladiators\bin\Debug\net8.0\Gladiators.exe
+D:\Gladiators\bin\Debug\net8.0\Gladiators.deps.json
+D:\Gladiators\bin\Debug\net8.0\Gladiators.runtimeconfig.json
+D:\Gladiators\bin\Debug\net8.0\Gladiators.dll
+D:\Gladiators\bin\Debug\net8.0\Gladiators.pdb
+D:\Gladiators\obj\Debug\net8.0\Gladiators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gladiators\obj\Debug\net8.0\Gladiators.AssemblyInfoInputs.cache
+D:\Gladiators\obj\Debug\net8.0\Gladiators.AssemblyInfo.cs
+D:\Gladiators\obj\Debug\net8.0\Gladiators.csproj.CoreCompileInputs.cache
+D:\Gladiators\obj\Debug\net8.0\Gladiators.dll
+D:\Gladiators\obj\Debug\net8.0\refint\Gladiators.dll
+D:\Gladiators\obj\Debug\net8.0\Gladiators.pdb
+D:\Gladiators\obj\Debug\net8.0\Gladiators.genruntimeconfig.cache
+D:\Gladiators\obj\Debug\net8.0\ref\Gladiators.dll
