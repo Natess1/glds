@@ -18,13 +18,20 @@ using system;
         }
 
         Public Hit(Gladiator target){
-            Console.WriteLine($"")
+            Console.WriteLine($"{name} ударил {target.GetInfo()}");
+            TarDam(strg);
         }
 
         Public TarDam(int dmg){
             hp -=dmg;
             Console.WriteLine($"{name} получил {dmg} урона")
         }   
+
+
+        Public Info(){
+            Console.WriteLine($"имя: {name}\nСила:[{strg}]\nЗдоровье:({hp})")
+        }
+
 
         public string GetInfo(){
             return $"{name}[{strg}]({hp})";

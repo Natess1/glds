@@ -7,7 +7,7 @@ using system;
        int money = 50;
         }
 
-        Public hill(Gladiator){
+        Public Hill(Gladiator){
             if(money > 10){
                 if(glad.hp < 91){
                 glad.hp += 10;
@@ -33,10 +33,21 @@ using system;
 
             }
         }
-    
 
+        Public DelGlad(){
+            glads.remove()
+        }
 
-
+        Public CBWin(Gladiator target){
+            if(hp > 0 || target.hp <= 0){
+                Console.WriteLine($"{name} Выйграл бой у {target.name}");
+                }
+        }
+        Public CAWin(){
+            if(glory >= 100){
+                Console.WriteLine("Вы прошли игру!")
+            }
+        }
 
 
     }
